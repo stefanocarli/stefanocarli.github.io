@@ -2,7 +2,7 @@ name: Blog di Stefano Carli
 description: Blogging
 meta_description: "Sicurezza informatica, privacy, Blog"
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
