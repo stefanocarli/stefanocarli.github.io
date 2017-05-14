@@ -17,7 +17,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://stefanocarli.github.io'
-author:         'Your Name'
+author:         'Stefano Carli'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
