@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: about/
+title: Privacy
+permalink: privacy/
 profile: true
 ---
 
