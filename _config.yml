@@ -1,30 +1,61 @@
 # Site settings
-title: Stefano Carli
-email: you@example.com
+title: Your awesome title
+tagline: And Tagline
+email: gayanvirajith@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sicurezza informatica senza olio di palma.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+  Hi, I’m a professional UI/UX designer and web developer. 
+  I love being minimal and creative.
+baseurl: "/gaya" # the subpath of your site, e.g. /blog/
+url: "http://gayan.me" # the base hostname & protocol for your site
+logourl: /assets/images/logo.png # Site logo
+author: "Tom Warlker"
+author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+# Theme customization - please change from the defaults!
+theme:
+  # Color for sidebar bar, links, etc
+  highlight_color: "#205081" #205081" # "#272935"
+  # Social media links, leave blank to ignore
+  social: 
+    github: gayanvirajith
+    twitter: gayanvirajith
+    facebook: gayanvirajith
+    gplus: +gayanvirajith
+    # dribble: gayanvirajith
+    pinterest: gayanvirajith
+
+  # Enable share buttons on post footer
+  show_share_buttons: true
+
+  # Show author picure, name and social links on post footer
+  show_author_info: true
+
+  # Disqus comments manager - shortname
+  # disqus_shortname: gaya-webcreate
+
+  # Google Analytics/Webmaster key, leave blank to ignore
+  google_analytics_key: 
+  google_webmaster_key: 
 
 # Build settings
 markdown: kramdown
 
-# highlighter: pygments
-highlighter: rouge
+# Permalinks
+permalink:        pretty
 
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+# Pagination config
+paginate: 5
 
+# Files/Folders to be excluded from generated _site folder
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
 
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
-
+# Sass conversion configs
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
