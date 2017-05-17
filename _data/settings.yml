@@ -8,7 +8,7 @@ menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Contact', url: 'contact.html'}
-- {name: 'Contact', url: 'privacy.html'}
+- {name: 'Privacy', url: 'privacy.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
