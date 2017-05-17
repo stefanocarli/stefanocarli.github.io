@@ -6,19 +6,19 @@ profile: false
 
 # Privacy
 <br>
-⋅⋅*  [Talk] [Glenn Greenwald: Perchè la privacy conta](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=it#t-19743) [20:37]
+1.  [Talk] [Glenn Greenwald: Perchè la privacy conta](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=it#t-19743) [20:37]
 2.  [Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
-
+<br>
 # Leggi, normative e sentenze
-
+<br>
 1.  [Carta dei diritti fondamentali dell'Unione Europea 18/12/2000 Nizza](http://www.europarl.europa.eu/charter/pdf/text_it.pdf)
 2.  [Convenzione europea dei diritti dell'uomo](http://www.echr.coe.int/Documents/Convention_ITA.pdf)
 3.  [Direttiva 95/46/CE](http://194.242.234.211/documents/10160/10704/Direttiva+95+46+CE.pdf)
 4.  [Decreto Legislativo 30 giugno 2003, n. 196](http://www.camera.it/parlam/leggi/deleghe/testi/03196dl.htm)
 5.  [Regolamento (UE) 2016/679](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ITA&toc=OJ:L:2016:119:TOC)
-
+<br>
 ### Safe Harbor (Approdo sicuro)
-
+<br>
 1.  [2000/520/CE: Decisione della Commissione, del 26 luglio 2000](http://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32000D0520) (Istituzione del Safe Harbor, 26/07/2000)
 2.  [Sentenza della corte 6 Ottobre 2015, Schrems contro Data Protection Commissioner](http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=IT&mode=req&dir=&occ=first&part=1&cid=125031) (Invalidità del Safe Harbor, 6/10/2015)
 3.  [Garante] [Facebook: dichiarazione di Antonello Soro sulla sentenza della Corte di Giustizia Europea](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/4308245) (6/10/2015)
@@ -29,9 +29,9 @@ profile: false
 8.  [Articolo] [Soro scrive a Renzi: trattative in stallo sul trasferimento di dati fra Italia e Usa](http://www.lastampa.it/2016/01/22/italia/politica/soro-scrive-a-renzi-trattative-in-stallo-sul-trasferimento-di-dati-fra-italia-e-usa-KU0kO4cdCeVSenVEeLUB0N/pagina.html) (La Stampa, 22/01/2016)
 9.  [Articolo] [Cos’è il Safe Harbor e perché ti riguarda da vicino](http://www.lastampa.it/2016/01/29/tecnologia/tutorial/cos-e-perch-si-parla-del-safe-harbor-spiegato-in-punti-7uwscj2UAL7TiZoyMSaRIN/pagina.html) (La Stampa, 29/01/2016)
 10.  [Articolo] [Cos’è il Safe Harbour, l’accordo per la protezione dei dati online?](http://www.eunews.it/2016/02/01/safe-harbour/49561) (http://www.eunews.it/, 01/02/2016)
-
+<br>
 ### Privacy Shield
-
+<br>
 1.  [Articolo] [Addio a Safe harbor, ecco lo "Scudo per la privacy": sì all'accordo Usa-Ue sui dati personali](http://www.repubblica.it/tecnologia/sicurezza/2016/02/02/news/safe_harbor_nuovo_accordo_usa-ue-132579711/) (La Repubblica, 02/02/2016)
 2.  [Articolo] [Tutelata la privacy dei cittadini europei, c’è l’intesa con gli Usa sul trasferimento dei dati](http://www.lastampa.it/2016/02/02/esteri/tutelata-la-privacy-dei-cittadini-europei-c-lintesa-con-gli-usa-sul-trasferimento-dei-dati-bOFI7ayph9Aq1Fk1xmON6H/pagina.html) (La Stampa, 02/02/2016)
 3.  [EU-U.S. Privacy Shield](https://www.commerce.gov/privacyshield)
@@ -39,14 +39,16 @@ profile: false
 5.  [Articolo] [Dopo Safe Harbor, Mailchimp cambia le regole](http://robertarapicavoli.it/dopo-safe-harbor-mailchimp-cambia-le-regole/) (Roberta Rapicavoli)
 6.  [Articolo] [Privacy Shield: i Garanti Ue chiedono maggiori garanzie](https://www.key4biz.it/privacy-shield-i-garanti-ue-chiedono-maggiori-garanzie/156605/) (key4biz.it, 13/04/2016)
 7.  [Articolo] [Trasferimento dati UE-USA, tensione in Europa](http://punto-informatico.it/4321767/PI/Commenti/trasferimento-dati-ue-usa-tensione-europa.aspx) (Punto informatico, 26/05/2016)
-
+<br>
 ### Accordo "Umbrella"
-
+<br>
 1.  [Articolo] [Firmato l'accordo Umbrella tra Usa e Unione europea](http://brunosaetta.it/privacy/firmato-l-accordo-umbrella-tra-usa-e-unione-europea.html) (Bruno Saetta, 12/06/2016)
+<br>
 
 # Storia della privacy
-
+<br>
 1.  [Studio] [Delos: Investigating the notion of privacy within the ancient Greek house](https://lra.le.ac.uk/handle/2381/8947) (Samantha Burke)
+<br>
 
 # Minacce alla privacy
 
