@@ -4,9 +4,9 @@ permalink: privacy/
 profile: false
 ---
 
-# [![privacy](http://stefano.chebravo.com/wp-content/uploads/2016/06/privacy.jpg)](http://stefano.chebravo.com/privacy/privacy-2/) Perchè parlare di privacy
-
-1.  [Talk] [Glenn Greenwald: Perchè la privacy conta](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=it#t-19743) [20:37]
+# Privacy
+<br>
+⋅⋅*  [Talk] [Glenn Greenwald: Perchè la privacy conta](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=it#t-19743) [20:37]
 2.  [Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
 
 # Leggi, normative e sentenze
