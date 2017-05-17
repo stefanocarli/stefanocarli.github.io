@@ -3,8 +3,6 @@ layout: page
 title: Privacy
 ---
 
-# Privacy
-
 [Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
 
 # Leggi, normative e sentenze
@@ -58,6 +56,7 @@ title: Privacy
 4.  [Articolo] [NSA Prism program slides](http://www.theguardian.com/world/interactive/2013/nov/01/prism-slides-nsa-document) (TheGuardian)
 5.  [Articolo] [NSA Files: Decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) (The Guardian)
 6.  [Video] [Edward Snowden - Siamo tutti spiati dalla CIA](https://www.youtube.com/watch?v=Weq0myVo2M8) (12:34)
+7. [Articolo [Su internet i nuovi tool dell'Nsa per colpire Windows](http://www.repubblica.it/tecnologia/sicurezza/2017/04/19/news/su_internet_i_nuovi_tool_dell_nsa_per_colpire_windows-163364740/?ref=search)
 
 ### Captatori informatici
 
