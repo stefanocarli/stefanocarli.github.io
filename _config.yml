@@ -1,43 +1,29 @@
-name: Blog di Stefano Carli
-description: Blogging
-meta_description: "Sicurezza informatica, privacy, Blog"
+# Site settings
+title: *folio
+email: you@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username:  github_username
 
-aboutPage: false
-
+# Build settings
 markdown: kramdown
-highlighter: rouge
 
-gems: [jekyll-paginate]
-paginate: 20
-baseurl: /
-domain_name: 'http://stefanocarli.github.io'
-#google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+highlighter: pygments
 
-# Details for the RSS feed generator
-url:            'http://stefanocarli.github.io'
-author:         'Stefano Carli'
-authorTwitter:  'YourTwitterUsername'
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
 
-permalink:       /:year/:title/
 
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
