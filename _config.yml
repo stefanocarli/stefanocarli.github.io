@@ -1,61 +1,43 @@
-# Site settings
-title: Stefano Carli*
-tagline: * da oggi senza olio di palma!
-email: gayanvirajith@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designer and web developer. 
-  I love being minimal and creative.
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://stefanocarli.me" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
-author: "Stefano Carli"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
-# Theme customization - please change from the defaults!
-theme:
-  # Color for sidebar bar, links, etc
-  highlight_color: "#205081" #205081" # "#272935"
-  # Social media links, leave blank to ignore
-  social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +gayanvirajith
-    # dribble: gayanvirajith
-    pinterest: gayanvirajith
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-  # Enable share buttons on post footer
-  show_share_buttons: true
+aboutPage: true
 
-  # Show author picure, name and social links on post footer
-  show_author_info: true
-
-  # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
-
-  # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
-  google_webmaster_key: 
-
-# Build settings
 markdown: kramdown
+highlighter: rouge
 
-# Permalinks
-permalink:        pretty
+gems: [jekyll-paginate]
+paginate: 20
+baseurl: /
+domain_name: 'http://stefanocarli.me'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
 
-# Pagination config
-paginate: 5
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
 
-# Files/Folders to be excluded from generated _site folder
-exclude: 
-  - CNAME
-  - Gemfile
-  - Rakefile
-  - README.md
-  - .gitignore
-  - .sass-cache
-  - Gemfile.lock
+permalink:       /:year/:title/
 
-# Sass conversion configs
-sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
