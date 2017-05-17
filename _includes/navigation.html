@@ -6,5 +6,9 @@
     {% if page.url != "/about/" %}
         <a href="{{ site.baseurl }}about">About </a>
     {% endif %}
+
+    {% if page.url != "/privacy/" %}
+        <a href="{{ site.baseurl }}about">Privacy </a>
+    {% endif %}
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>
