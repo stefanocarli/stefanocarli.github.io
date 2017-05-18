@@ -4,6 +4,7 @@ title: Privacy
 ---
 
 # Sulla data protection in Italia
+
 1. [Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
 2. [Privacy e Internet: interventi del Garante](http://www.garanteprivacy.it/privacy-e-internet)
 
@@ -92,6 +93,6 @@ title: Privacy
 
 # Slide lezioni
 
-*   [Storia della Privacy](http://stefano.chebravo.com/privacy/1_storia_della_privacy/)
-*   [Il Dlgs 196/2003 - Codice in materia di protezione dei dati personali](http://stefano.chebravo.com/privacy/2_codice_privacy/)
-*   [Il regolamento UE 2016/679 sulla data protection](http://stefano.chebravo.com/privacy/3_regolamento-europeo/)
+*   [Storia della Privacy]
+*   [Il Dlgs 196/2003 - Codice in materia di protezione dei dati personali]
+*   [Il regolamento UE 2016/679 sulla data protection]
