@@ -3,7 +3,9 @@ layout: page
 title: Privacy
 ---
 
-[Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
+# Sulla data protection in Italia
+1. [Libro consigliato] Il mondo nella rete. Quali i diritti, quali i vincoli (Stefano Rodotà)
+2. [Privacy e Internet: interventi del Garante](http://www.garanteprivacy.it/privacy-e-internet)
 
 # Leggi, normative e sentenze
 
