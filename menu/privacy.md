@@ -93,6 +93,4 @@ title: Privacy
 
 # Slide lezioni
 
-*   [Storia della Privacy](http://stefanocarli.me/files/storia_della_privacy.pdf)
-*   [Il Dlgs 196/2003 - Codice in materia di protezione dei dati personali](http://stefanocarli.me/files/196_2003.pdf)
-*   [Il regolamento UE 2016/679 sulla data protection](http://stefanocarli.me/files/Regolamento_Europeo.pdf)
+*   [Cookie](http://stefanocarli.me/files/cookie.pdf)
