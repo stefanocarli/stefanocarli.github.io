@@ -22,7 +22,7 @@ authors:
     stef:
       name:           Stef
       #site:           https://www.wowthemes.net
-      avatar:         /assets/images/Devil_Cookie_Exhausted.png
+      avatar:         /assets/images/devil_cookie.jpg
       #bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       #email:          wowthemesnet@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: stef
-      avatar: /assets/images/Devil_Cookie_Exhausted.png
+      avatar: /assets/images/devil_cookie.jpg
       
   # all pages
   - scope:
