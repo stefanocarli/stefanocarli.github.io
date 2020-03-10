@@ -1,9 +1,9 @@
 # Site
-name: 'Blog di Stefano Carli'
-description: 'Da oggi senza olio di palma.' 
+name: 'Stefano Carli'
+description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/'
 #disqus: 'demowebsite'
 #email: 'wowthemesnet@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -21,12 +21,12 @@ plugins:
 authors:
     stef:
       name:           Stef
-      site:           https://www.example.com
-      avatar:         assets/images/devil_cookie.jpg
-      bio:            "Hi, I hope you like it!"
-      email:          ddd@example.com
-      twitter:        https://twitter.com/asdasd
-
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+ 
 # Defaults
 defaults:
 
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: stef
-      avatar: '/assets/images/devil_cookie.jpg'
+      author: sal
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
