@@ -1,57 +1,48 @@
-# Site
-name: 'Stefano Carli'
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:       Type
+email:       ''
 description: ''
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/'
-#disqus: 'demowebsite'
-#email: 'wowthemesnet@gmail.com'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+twitter:     ''
+github:      ''
+instagram:   ''
+facebook:    ''
 
-include: ["_pages"]
-permalink: /:title/
+markdown:  kramdown
+permalink: pretty
+paginate:  10
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
+sass:
+  style: compressed
+
+plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    stef:
-      name:           Stef
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
-# Defaults
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
 defaults:
-
-  # all posts
   - scope:
-      path: "_posts"
+      path: '_pages'
     values:
-      layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
-markdown: kramdown
-highlighter: rouge
-
-# Paginate
-paginate: 10
-
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+      permalink: /:basename:output_ext
